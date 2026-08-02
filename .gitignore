@@ -1,0 +1,49 @@
+# Generated documents
+*.pdf
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.log
+*~
+~$*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE files
+*.swp
+*.swo
+.idea/
+.vs/
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# LaTeX intermediate files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
+
+# Build output
+build/
+dist/
