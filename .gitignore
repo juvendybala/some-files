@@ -47,3 +47,5 @@ venv/
 # Build output
 build/
 dist/
+
+AGENTS.md
